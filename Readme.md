@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/zeon1137/count.svg" />
 </p>
 
-# Hi there 👋, I'm Danny Gomez a HomeLab Novie
+# Hi there 👋, I'm Danny Gomez a HomeLab Novice
 
 Currently working on ways to make my HomeLab experience easier, as well as setting it up as useful playground for learning. Hope to share with the community what I learned and made other people journey a little bit easier.
 
